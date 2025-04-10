@@ -1,1 +1,1 @@
-# ESG-Analytics
+# ESG-Analytics Group project
